@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="path_to_logo_image" alt="Logo" width="80" height="80">
+  <img src="logo.png" alt="Logo" width="80" height="80">
 
   <h1 align="center">PHOTO-EDITOR-USING-CTk</h1>
 </div>
